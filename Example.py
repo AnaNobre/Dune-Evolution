@@ -53,7 +53,7 @@ RunS1.plot_space_time(time_vector_yrs = time_vector_yrs, parameter = 'h')
 
 #%% Parameters
 
-# to check which where to modeled parameters (except time that is a combination of mais results)
+# to check which where to modeled parameters (except time that is a combination of main results)
 RunS1.list_parameters()
 
 
