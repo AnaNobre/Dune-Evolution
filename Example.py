@@ -17,7 +17,7 @@ import numpy as np
 # =============================================================================
 
 # save_directory path to the folder where the resultsare saved (if not the same defined in the *.par file) 
-save_directory = 'D:\\6_Aulas_e_Formacao\\2020_phD_Ana Bastos\\CoastalDuneModel\\CDM_V3\\Results_S1'
+save_directory = 'D:\\...\\Results_S1'
 filename ='params_S1.par'
 
 # Use real time (True) or modelation total time (False - default)
