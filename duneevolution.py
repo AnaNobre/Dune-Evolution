@@ -255,7 +255,6 @@ class DuneEvolution:
         for it, time in enumerate(time_vector_order):
             perc = it/time_vector_order.shape[0]
             cor = (1-perc, 1-perc/2, perc) #Verde -azul
-            # print(color)
             # color = ((perc/2), 1-(perc/2), perc) #Verde -azul
             # color = ((1-perc)/2, 1-perc/2, 1-perc) #Verdes
             # color = ((1-perc)/2, (perc)/2, 1-perc) #roxo - preto
